@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611470116653",
+    "firebase_url": "https://rbx-guide-02.firebaseio.com",
+    "project_id": "rbx-guide-02",
+    "storage_bucket": "rbx-guide-02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611470116653:android:356750f41afd442e",
+        "android_client_info": {
+          "package_name": "guiderbx.rbxeventsguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611470116653-i554kpbl7tn48crgvbl5nhia7p0eujgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCozTdKzs_HYYtSDcS74sISRXoAiKwYO8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611470116653-i554kpbl7tn48crgvbl5nhia7p0eujgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

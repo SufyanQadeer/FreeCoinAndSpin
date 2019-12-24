@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RBX Guide</string>
+    <string name="note"><b>Note</b>\nSometimes you will not get same Reward Gift as we listed because gift is totally dependent on user\'s current game level\n\n
+        Each Reward can be used once per user otherwise you will see message like You Already received the gift from this link!.
+    </string>
+    <string name="step1"><b>Step 1:</b>\nClick on TIPS or GUIDE Button. You will Find list of all latest Gift and GUIDE Links.</string>
+    <string name="step2"><b>Step 2:</b>\nGet the latest TIPS qnd GUIDE by clicking on each Open button of RBX GUIDE APP.</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-5474364781271734/7105912406</string>
+
+    <!-- AdMob Interstitial ads Id -->
+
+    <!-- DEFAULT Ad UNIT ID: ca-app-pub-3940256099942544/1033173712 -->
+
+    <string name="interstitial_ad_unit_id" translatable="false">ca-app-pub-5474364781271734/4722403592</string>
+
+    <!-- AdMob App Id -->
+
+    <!-- DEFAULT Admob APP ID: ca-app-pub-3940256099942544~3347511713 -->
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-5474364781271734~6223187525</string>
+
+    <!-- DEFAULT Rewarded Ad ID: ca-app-pub-3940256099942544/5224354917 -->
+
+</resources>

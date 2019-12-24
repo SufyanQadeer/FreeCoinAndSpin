@@ -1,0 +1,52 @@
+<android.support.constraint.ConstraintLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/dialogbackground"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/sure"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:fontFamily="@font/quicksand"
+        android:gravity="center"
+        android:text="You are now leaving this app, a link will open in external browser.\n Are you sure?"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <Button
+        android:id="@+id/yes"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="1dp"
+        android:background="@drawable/leftbuttonbackground"
+        android:fontFamily="@font/quicksand_bold"
+        android:hapticFeedbackEnabled="true"
+        android:padding="16dp"
+        android:text="Yes"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/no"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sure" />
+
+    <Button
+        android:id="@+id/no"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rightbuttonbackground"
+        android:fontFamily="@font/quicksand_bold"
+        android:hapticFeedbackEnabled="true"
+        android:padding="16dp"
+        android:text="No"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/yes" />
+</android.support.constraint.ConstraintLayout>

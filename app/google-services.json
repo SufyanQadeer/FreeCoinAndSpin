@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920773536444",
+    "firebase_url": "https://slotospins-coinot.firebaseio.com",
+    "project_id": "slotospins-coinot",
+    "storage_bucket": "slotospins-coinot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920773536444:android:7fc275ef4fb6da73",
+        "android_client_info": {
+          "package_name": "slotospins.coinsslot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920773536444-duvej7pddqb7o2d9uogng6jg6hmk7cvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwrG63dcG4FaGKTffMNVuErPSa0oGYLs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920773536444-duvej7pddqb7o2d9uogng6jg6hmk7cvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
